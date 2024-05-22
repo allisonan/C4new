@@ -1,0 +1,12 @@
+class A extends School
+{
+	void skillA()
+	{
+		System.out.println("A skill");
+	}
+
+	String show()
+	{
+		return "new A 學生";
+	}
+}
